@@ -1,0 +1,7 @@
+# Asana project gids to watch. Find the gid in the project URL:
+# https://app.asana.com/0/<PROJECT_GID>/list
+#
+# Add one entry per project.
+projects:
+  - gid: "1214145707984817"
+    name: "Summa Scripts"

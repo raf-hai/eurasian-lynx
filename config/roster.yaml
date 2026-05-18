@@ -1,0 +1,13 @@
+# Team roster. The LLM addresses people by `name`; the executor maps name
+# to Asana gid and Slack user ID.
+#
+# Find Asana user gid: scripts/print-roster.py (TODO) or call
+#   GET https://app.asana.com/api/1.0/users
+# Find Slack user ID: Slack profile → More → Copy member ID.
+roster:
+  - name: "Raf"
+    asana_gid: "REPLACE_ME"
+    slack_id: "REPLACE_ME"
+  # - name: "Chris"
+  #   asana_gid: "..."
+  #   slack_id: "..."
